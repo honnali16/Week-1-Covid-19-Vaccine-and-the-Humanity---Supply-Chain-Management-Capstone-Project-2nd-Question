@@ -1,0 +1,75 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Week 1: Covid-19 Vaccine and the Humanity - Supply Chain Management Capstone Project 2nd Question\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Description of the data and how it will be used to solve the problem\n",
+    "There are four types of data required for the Project.\n",
+    "\t(1) Covid-19 Vaccine Data with attributes\n",
+    "\t(2) Logistics Data\n",
+    "\t(3) Location and People to be vaccinated Data\n",
+    "\t(4) Profiling of People Data\n",
+    " \n",
+    "Covid-19 Vaccine Data is sourced from the respective company’s public release. The data is pooled from the government health ministry/department for arriving at the aggregate data and for the corroboration. This data is crucial for ascertaining the likely the size of the supply.\n",
+    "Example:\n",
+    "Particulars\n",
+    "Pfizer\n",
+    "Moderna\n",
+    "Putnik\n",
+    "Other Native Companies\n",
+    "Number of Vaccines per day\n",
+    "xxxx\n",
+    "xxxx\n",
+    "xxxx\n",
+    "xxxx\n",
+    "Temperature\n",
+    "-200\n",
+    "-100\n",
+    "-00\n",
+    "-00\n",
+    "Efficiency\n",
+    "95%\n",
+    "97%\n",
+    "90%\n",
+    "90%\n",
+    "\n",
+    "Logistics Data includes cold storage facilities, supply chains, inward and outward movement of vaccines. This is taken from the health ministry/department. This helps in planning the procurement schedule and vaccination schedule.\n",
+    "\n",
+    "Location and People to be vaccinated Data is collected through foursquare and census records. This helps in ascertain the demand for vaccine. This data when compared with the supply data, the gap between the demand and supply may be ascertained. Action plan may be taken up for ramping up the supply and meeting the schedule following the rationing approach.\n",
+    "\n",
+    "Profiling of People Data is the derived or processed form of data from the previous data set. This helps in planning for administering the vaccine. \n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
